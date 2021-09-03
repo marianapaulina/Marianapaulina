@@ -1,4 +1,4 @@
-## Oie!! Eu sou a Mariana Paulina
+## Oie!! Sou a Mariana Paulina aluna do programa Edutech 
 
  <div>
   <a href="https://github.com/marianapaulina">
