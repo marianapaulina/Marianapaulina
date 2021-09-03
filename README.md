@@ -1,8 +1,8 @@
 ## Oie!! Eu sou a Mariana Paulina
 
  <div>
-  <a href="https://github.com/MarianaPaulina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaPaulina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/marianapaulina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianapaulina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPaulina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -23,7 +23,7 @@
    
  <div>
   
- ![Snake animation](https://github.com/MarianaPaulina/MarianaPaulina/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/marianapaulina/marianapaulina/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
