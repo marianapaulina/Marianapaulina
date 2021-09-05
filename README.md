@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/05452feb19c731aed3ca6dd173782afc.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"
+ <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/05452feb19c731aed3ca6dd173782afc.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"
  </div>
   
    ##   
