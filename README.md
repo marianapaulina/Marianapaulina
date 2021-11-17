@@ -1,6 +1,7 @@
-##
-## *Oie!! Sou a Mariana Paulina aluna do programa Edutech.*
-##
+🌎*Bem-vindo(a)!*
+
+## *Oie!! Sou a Mariana Paulina, aluna do programa Edutech.*
+❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊
 ##
 
  <div>
@@ -8,7 +9,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marianapaulina&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPaulina&layout=compact&langs_count=7&theme=radical"/>
 </div>
- 
+
  ##
  
 <div style="display: inline_block"><br>
