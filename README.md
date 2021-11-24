@@ -1,6 +1,6 @@
 🌎*Bem-vindo(a)!*
 
-## *Oie!! Sou a Mariana Paulina, aluna do programa Edutech.*
+## *Sou a Mariana Paulina, aluna do programa Edutech.*
 ❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊
 ##
 
