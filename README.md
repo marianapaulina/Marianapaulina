@@ -3,7 +3,7 @@
 ## Bem-vindos!! 
 ❊ Olá, sou a Mariana, ou Mari se preferir.
 ##
-Futura engenheira de software em desenvolvimento, sempre buscando aprender... 
+Futura Engenheira de Software em desenvolvimento, sempre buscando aprender... 
 ## Sinta-se à vontade para explorar meu portfólio de projetos.
 ##
  <div>
