@@ -1,12 +1,16 @@
 
 
 ## Bem-vindos!! 
-❊
+❊ Olá, sou a Mariana, ou Mari se preferir.
+##
+Futura engenheira de software em desenvolvimento, sempre buscando aprender... 
+## Sinta-se à vontade para explorar meu portfólio de projetos.
 ##
  <div>
   <a href="https://github.com/marianapaulina">
  
-  <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPaulina&layout=compact&langs_count=7&theme=radical"/>
+  <img height="120m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPaulina&layout=compact&langs_count=7&theme=radical&card_width=1185"/>
+
 </div>
 
  ##
