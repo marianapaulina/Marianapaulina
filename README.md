@@ -9,7 +9,7 @@ Futura Engenheira de Software em desenvolvimento, sempre buscando aprender...
  <div>
   <a href="https://github.com/marianapaulina">
  
-  <img height="120m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPaulina&layout=compact&langs_count=7&theme=radical&card_width=1185"/>
+  <img height="120m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPaulina&layout=compact&langs_count=7&theme=dark&card_width=1185"/>
 
 </div>
 
