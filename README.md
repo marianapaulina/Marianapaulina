@@ -1,12 +1,10 @@
 
 
-## Bem-vindos!! 
+## Bem-vindos!
+<img src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/3e6233ff-6c9b-43ea-a2e1-7b313bb4fc62" alt="Descrição da imagem" width="1100" height="1000">
 ❊ Olá, sou a Mariana ou Mari se preferir.
-##
 Futura Engenheira de Software em desenvolvimento sempre buscando evoluir... 
-## Sinta-se à vontade para explorar meu portfólio de projetos.
-#
-
+Sinta-se à vontade para explorar meu portfólio de projetos.
 
  ##
  
@@ -19,6 +17,7 @@ Futura Engenheira de Software em desenvolvimento sempre buscando evoluir...
   
     
    ##
+
  
  <div>
   <a href="https://www.instagram.com/mah_paulina55/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
