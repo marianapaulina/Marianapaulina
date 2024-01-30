@@ -40,6 +40,11 @@
   <a href="https://www.linkedin.com/in/mariana-paulina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="center" src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/35abd352-843d-41d0-9417-7bc18923f4c4" alt="Descrição da imagem" style="margin-left: 10px;" width="200" height="150">
 </div>
+<div>
+<a href="https://github.com/marianapaulina">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?marianapaulina=marianapaulina&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?marianapaulina=marianapaulina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
    
 ![Snake animation](https://github.com/marianapaulina/marianapaulina/blob/output/github-contribution-grid-snake.svg)
