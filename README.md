@@ -1,9 +1,9 @@
 
 
-## ❊Hello World! 
+## Hello World! 
 <p>
  
-  🌿Olá, seja muito bem-vindo(a)! Eu sou a Mariana ou Mari como preferir. Estou trilhando o caminho para me tornar uma Engenheira de Software e estou animada para compartilhar minha jornada contigo. Fique à vontade para entrar em contato e compartilhar ideias. Obrigada pela visita! 🚀✨.
+  🌿Olá, seja muito bem-vindo(a)! Eu sou a Mariana ou Mari como preferir. Estou trilhando o caminho para me tornar uma Engenheira de Software e estou animada para compartilhar minha jornada contigo. Fique à vontade para entrar em contato e compartilhar ideias. Obrigada pela visita! .
 
 </p>
 
