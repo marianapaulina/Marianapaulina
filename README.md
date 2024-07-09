@@ -17,14 +17,18 @@
  
 <div style="display: inline_block">
   <img align="center" src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/b2865657-c0d5-44e6-8aed-bb99471f5350" alt="Descrição da imagem" style="float:left; margin-right:10px;" width="100" height="110">
-  |
-
+  |  🌱 Atualmente estou aprendendo 
+  
   <img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-left: 20px;">
   <img align="center" alt="Mari-CSS" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="50" align="center"/>
+
+          
+    
           
           
  
@@ -32,7 +36,7 @@
 
 
   
- 
+
 <div>
   <a href="https://www.instagram.com/mah_paulina_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
