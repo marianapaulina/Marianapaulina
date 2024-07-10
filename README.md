@@ -4,11 +4,12 @@
 <p>
 <div>
   🌿Olá, seja muito bem-vindo(a)! Eu sou a Mariana ou Mari como preferir. Estou trilhando o caminho para me tornar uma Engenheira de Software e estou animada para compartilhar minha jornada contigo. Fique à vontade para entrar em contato e compartilhar ideias. Obrigada pela visita! .
+  </div>
  
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianapaulina&show_icons=true&theme=gruvbox)
   <img src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/8ff65d65-ce5c-48e9-a92d-582d5cd39825" alt="Descrição da primeira imagem"  width="400" height="280">
    
-</div>
+
 
  ##
 
