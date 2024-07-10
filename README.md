@@ -9,7 +9,7 @@
 
 
   <img src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/8ff65d65-ce5c-48e9-a92d-582d5cd39825" alt="Descrição da primeira imagem" style="float:left; margin-right:10px;" width="400" height="500">
-  <img src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/3e6233ff-6c9b-43ea-a2e1-7b313bb4fc62" alt="Descrição da imagem" alt="Descrição da segunda imagem" style="float:left;" width="400" height="500">
+
 </div>
 
  ##
