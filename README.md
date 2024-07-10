@@ -2,14 +2,12 @@
 
 ## Hello World! 
 <p>
- 
+<div>
   🌿Olá, seja muito bem-vindo(a)! Eu sou a Mariana ou Mari como preferir. Estou trilhando o caminho para me tornar uma Engenheira de Software e estou animada para compartilhar minha jornada contigo. Fique à vontade para entrar em contato e compartilhar ideias. Obrigada pela visita! .
-
-</p>
-
-
-  <img src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/8ff65d65-ce5c-48e9-a92d-582d5cd39825" alt="Descrição da primeira imagem" style="float:left; margin-right:10px;" width="400" height="500">
-
+ 
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianapaulina&show_icons=true&theme=gruvbox)
+  <img src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/8ff65d65-ce5c-48e9-a92d-582d5cd39825" alt="Descrição da primeira imagem"  width="400" height="280">
+   
 </div>
 
  ##
@@ -42,7 +40,7 @@
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
   <a href="mailto:marianapaulina.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-paulina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="center" src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/35abd352-843d-41d0-9417-7bc18923f4c4" alt="Descrição da imagem" style="margin-left: 10px;" width="200" height="150">
+  <img align="center" src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/35abd352-843d-41d0-9417-7bc18923f4c4" alt="Descrição da imagem" style="margin-left: 20px;" width="250" height="170">
 </div>
 
 
