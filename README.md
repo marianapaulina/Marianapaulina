@@ -36,15 +36,12 @@
  
 </div>
 
-
-  
-
 <div>
   <a href="https://www.instagram.com/mah_paulina_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
   <a href="mailto:marianapaulina.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-paulina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="center" src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/35abd352-843d-41d0-9417-7bc18923f4c4" alt="Descrição da imagem" style="margin-left: 20px;" width="250" height="170">
+  <img align="center" src="https://github.com/marianapaulina/Marianapaulina/assets/88860217/35abd352-843d-41d0-9417-7bc18923f4c4" alt="Descrição da imagem" style="margin-left: 60px; margin-top: 20px;" width="250" height="170">
 </div>
 
 
